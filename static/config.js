@@ -4,7 +4,7 @@ window.INIS = {
     api: 'http://by.ideaopen.cn/api',
 
     // 后端开启token验证后，需要将token填写到此处
-    token: 'd57065574388092555c44aa74ec8059b',
+    token: 'eb5e500f069f6f5dd3eb3caaeb6b78f1',
 
     // CDN配置，用于加速静态资源
     cdn: 'https://cdn.inis.cc/theme/default/',
